@@ -4,12 +4,14 @@
 }
 
 .header {
-  font-size: 12px;
+  font-size: 18px;
   font-weight: bold;
+  color: #dfdfdf;
+  text-shadow: 1px 1px 2px black;
 }
 
 .container00 {
-  min-height: 100yh;
+  min-height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -178,11 +180,13 @@ img {
   font-size: 90px;
   font-family: "Rubki", sans-serif;
   font-weight: 700;
-  color: #FF0043;
+  color: #dfdfdf;
+  text-shadow: 1px 1px 2px black;
 }
 
 .subTitleFalcon {
-  color: #FF0043;
+  color: #dfdfdf;
+  text-shadow: 1px 1px 2px black;
   font-weight: 600;
 }
 
@@ -303,14 +307,16 @@ img {
 }
 .container01Content .titleHuman {
   font-size: 120px;
-  color: #FF0043;
+  color: #dfdfdf;
+  text-shadow: 1px 1px 2px black;
   font-weight: 700;
 }
 .container01Content .subTitleHuman {
   font-size: 30px;
   margin-top: 20px;
   margin-bottom: 50px;
-  color: #FF0043;
+  color: #dfdfdf;
+  text-shadow: 1px 1px 2px black;
   font-weight: 700;
 }
 
